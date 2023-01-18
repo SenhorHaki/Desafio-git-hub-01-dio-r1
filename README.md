@@ -1,2 +1,12 @@
-# Desafio-git-hub-01-dio-r1
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub 
+Repositorio Criado para o Desafio de Projeto.
+
+
+
+## Links Úteis
+[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+
+
+
